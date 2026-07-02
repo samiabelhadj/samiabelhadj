@@ -8,8 +8,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 Computer Science student at the **Higher School of Computer Science (ESI-SBA)**, Sidi Bel Abbès
-- 💻 Specializing in **front-end and back-end development**
-- 🚀 Currently building **NSC-PROJECT / NCSHACK**, a hackathon platform, and **ConcoursDoctor**, a doctoral exam management system
+- 💻 Specializing in **front-end, back-end, and mobile development**
+- 📱 Mobile development with **Flutter**
+- 🚀 Projects I've built: **ConcoursDoctor** (doctoral exam management website), **TravelTrack** (travel tracking system), an **intelligent waste management system**, a **Quizzy** quiz app, and a **surveillance app**
 - 🌱 Learning: TypeScript, React, Node.js
 - 📫 Reach me at **s.belhadj@esi-sba.dz**
 - 🌍 Languages: French, Arabic, English
@@ -35,6 +36,10 @@
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 **Backend & Databases**
 
